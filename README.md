@@ -1,6 +1,6 @@
 # Bismuth-OS
 
-This is an Android 9.0 Rom for the Mi6 (sagit)
+This is an Android 8 Rom for the Mi6 (sagit) which is based on LineageOS 15.1
 
 ## Authors
 
